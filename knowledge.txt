@@ -1,0 +1,9 @@
+ABC Engineering College was established in 2001.
+
+The principal is Dr. Rajesh Kumar.
+
+The library has more than 50,000 books.
+
+The annual fest is TechSpark.
+
+The college has AI & ML, CSE, ECE, Mechanical and Civil departments.
